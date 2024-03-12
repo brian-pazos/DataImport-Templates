@@ -4,9 +4,9 @@
 
 This is an Ed-Fi DataImport template created for Texas Education Agency(TEA). The template is used to import data into TEA's Ed-Fi ODS human resources(HR) domain.
 
-Please check the [DataImport User Guide](DataImport User Guide.pdf) if you need help configuring Data Import using an existing template to load data into the Ed-Fi ODS.
+Please check the [DataImport-User-Guide](DataImport User Guide.pdf) if you need help configuring Data Import using an existing template to load data into the Ed-Fi ODS.
 
-Additional detailed documentation of the Ed-Fi resources and source file being loaded to the ODS can be found here [Finance DataImport Template.pdf](Finance DataImport Template.pdf). Once you are ready to start loading data, a set of sample file is provided here [sampleFiles](sampleFiles), you will only need to add your data.
+Additional detailed documentation of the Ed-Fi resources and source file being loaded to the ODS can be found here [Finance DataImport Template](Finance DataImport Template.pdf). Once you are ready to start loading data, a set of sample file is provided here [sampleFiles](sampleFiles), you will only need to add your data.
 
 
 ## Important Usage Note
